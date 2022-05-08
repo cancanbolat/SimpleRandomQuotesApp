@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "CosmosDb": {
+    "Account": "https://learnazurecosmos.documents.azure.com:443/",
+    "Key": "mlGzOrTdADcM91BuL6QL5aNwvtKIS61b3GqZCptcFxCXpxUMW4d6KlM0WOfg5IfEP6KQ1MdRiGJ3wgHJvVMHCA==",
+    "DatabaseName": "my-learn-database",
+    "ContainerName": "my-learn-container"
+  },
+  "Host": {"CORS": "*"}
+}

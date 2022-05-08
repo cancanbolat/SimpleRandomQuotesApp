@@ -1,0 +1,12 @@
+E:\CAN\repos-D\RandomQuotes\Shared\bin\Debug\net5.0\Shared.deps.json
+E:\CAN\repos-D\RandomQuotes\Shared\bin\Debug\net5.0\Shared.dll
+E:\CAN\repos-D\RandomQuotes\Shared\bin\Debug\net5.0\ref\Shared.dll
+E:\CAN\repos-D\RandomQuotes\Shared\bin\Debug\net5.0\Shared.pdb
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Debug\net5.0\Shared.csprojAssemblyReference.cache
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Debug\net5.0\Shared.dll
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Debug\net5.0\ref\Shared.dll
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Debug\net5.0\Shared.pdb

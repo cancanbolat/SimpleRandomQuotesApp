@@ -1,0 +1,9 @@
+E:\CAN\repos-D\RandomQuotes\Shared\bin\Release\netcoreapp3.1\Shared.deps.json
+E:\CAN\repos-D\RandomQuotes\Shared\bin\Release\netcoreapp3.1\Shared.dll
+E:\CAN\repos-D\RandomQuotes\Shared\bin\Release\netcoreapp3.1\Shared.pdb
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Release\netcoreapp3.1\Shared.csprojAssemblyReference.cache
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Release\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Release\netcoreapp3.1\Shared.AssemblyInfo.cs
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Release\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Release\netcoreapp3.1\Shared.dll
+E:\CAN\repos-D\RandomQuotes\Shared\obj\Release\netcoreapp3.1\Shared.pdb
